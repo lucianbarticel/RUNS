@@ -1,0 +1,182 @@
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d1" }, "name" : "JavaScript", "description" : "Language that can be used in a browser or in a server (see Node.js); In the browser it can be used to control HTML/CSS" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d2" }, "description" : "Language that allows a developer to apply a set of design rules, including font, colour, size, position and layout of a HTML document", "name" : "CSS (Cascading Style Sheet)" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d3" }, "name" : "Favicon", "description" : "Image displayed inside the browser next to the website page title" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d4" }, "name" : "iframe", "description" : "Effectively is window to a website inside a website; Expect extreme slowdowns in performance and possible security risks. Best standards strongly recommend NOT to use this. Despite this warning, there are bad websites which still do this, for example SalesForce, hence why Veeva SalesForce is hard to navigate." }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d6" }, "name" : "Deploy", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d7" }, "name" : "Deployment", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d8" }, "description" : "An environment to view a project for review before deploying to a live environment", "name" : "Staging" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1d9" }, "name" : "Package", "description" : "To prepare and make available the final output of a project (build files). Usually you compress the project build files into a .zip & name it per naming conventions (usually Client_Brand_Project_What_DD-MM-YY.zip)" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1da" }, "name" : "Upload", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1db" }, "name" : "Compile", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1dc" }, "description" : "The digital development of an asset. ", "name" : "Build" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1dd" }, "description" : "When something's gone wrong, there's an Error", "name" : "Error" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1de" }, "description" : "When something has gone wrong, or you see a de-ja-vu in the matrix", "name" : "Glitch" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1df" }, "description" : "An error in a digital asset, affecting its correct function. See Jira.", "name" : "Bug" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e0" }, "description" : "Irrelevant or unsolicited messages sent over the Internet, typically to large numbers of users, for the purposes of advertising, phishing, spreading malware, etc. Also a tasty formed meat found in tins.", "name" : "Spam" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e1" }, "name" : "Lag", "description" : "Word to indicate a slowdown or delay, might be applied to the UI or a late response to an interaction, such as from a Server" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e2" }, "name" : "Jank", "description" : "Similar to Lag, but specifically when the UI freezes during scrolling or animations" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e3" }, "name" : "Push/Pull/Commit", "description" : "Interactions with Git version control" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e4" }, "name" : "", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e5" }, "description" : "Closed Loop Marketing platform - a method of digital content dissemination and analytics tracking. Usually discussed in the context of a interactive detail aid", "name" : "CLM" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e6" }, "description" : "Customer Relationship Management", "name" : "CRM" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1e8" }, "name" : "Detailing", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ea" }, "name" : "DSA", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1eb" }, "description" : "A web banner that is 300px x 250px in size", "name" : "MPU" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ec" }, "description" : "A web banner that is 728px x 90px in size", "name" : "Leaderboard" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ed" }, "description" : "A web banner that is typically 120px x 600px in size", "name" : "SkyScraper" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ee" }, "description" : "A defined layout that can be re-used with different data input.", "name" : "Template" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ef" }, "description" : "An email distribution system that facilitates very granular analytics monitoring", "name" : "Campaign Monitor" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f0" }, "description" : "A closed-loop marketing platform for e-detail aids, previously used by GSK before they moved to Veeva", "name" : "Skura" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f1" }, "description" : "Veeva is a Closed Loop Marketing platform, used to distribute Digital Sales Aids to Sales Reps iPads. Currently used by Janssen, AstraZeneca, Gilead and Allergan.", "name" : "Veeva" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f2" }, "description" : "A technology and services company - major involvement with the Hive Group is either sales data or remote interactive detail aids", "name" : "Cegedim" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f3" }, "name" : "Exploria", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f4" }, "description" : "In the context of the Hive Group, a Closed Loop Marketing (CLM) platform used by some of our clients. Also a company who broader multi-channel marketing (MCM) company ", "name" : "Agnitio" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f5" }, "name" : "Kadridge", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f6" }, "name" : "Lectora", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f7" }, "description" : "Analysis of data, predominantly in the form of assessing digital assets. See metrics. ", "name" : "Analytics" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f8" }, "description" : "1. In software, it's the analytical data / numbers behind usage. \n2. In networking it's a set of properties on a communication path. \n3. In Maths it's an abstraction of the notion of distance in a metric space", "name" : "Metrics" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1f9" }, "description" : "The number of people who only access a single page within a digital asset before leaving - assumed to have absorbed no content. See analytics.", "name" : "Bounce Rate" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1fa" }, "name" : "Node.js", "description" : "Modern server software that uses JavaScript" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1fb" }, "description" : "An open-source web application framework for dynamic web pages", "name" : "ASP.NET" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1fc" }, "description" : "Adobe CQ5 is an enterprise level Content Management System (CMS) used by some of our clients to house and run their dotCom websites.", "name" : "CQ5" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1fd" }, "description" : "A Programming language, used primarily for native Mac & iOS Applications.", "name" : "Objective-C" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1fe" }, "name" : "GDS", "description" : "Global Design Services, …" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b1ff" }, "name" : "DC", "description" : "Design Centre, …" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b200" }, "name" : "DCOE", "description" : "Digital Centre of Excellence, …" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b201" }, "name" : "KC", "description" : "Knowledge Centre, …" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b202" }, "description" : "Project tracking software from Atlasian (https://www.atlassian.com/software/jira)", "name" : "JIRA" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b203" }, "name" : "Browser", "description" : "A browser allows users to visit websites by downloading HTML, CSS, JS and other assets and rendering them on the screen" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b204" }, "name" : "Cross Browser", "description" : "Term used to mean a website should work across multiple browsers" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b205" }, "name" : "Server Side", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b206" }, "name" : "Client-side (tech)", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b207" }, "description" : "Front end technologies are those run locally on your machine. Such as HTML & CSS - E.g. not on the server such as PHP & .NET", "name" : "Front End" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b208" }, "description" : "A digital term relating to the digital code/process/program not directly accessible by the end user, which contributes to the functioning of a digital asset", "name" : "Back End" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b209" }, "description" : "Experience in both Front-end and Back-end web development", "name" : "Full Stack" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20a" }, "description" : "Verson control system as used in Tech", "name" : "Git" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20b" }, "description" : "A central area code is 'pushed' to at various stages, allowing you to roll back to any of the stages in the future.", "name" : "Version Control" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20c" }, "description" : "The files used to create a website/app, before any compiling or deployment has been made. These are used to create and edit the project.", "name" : "Source Files" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20d" }, "description" : "Cache in technology terms is the temporary storage of files on a device, to help them load quicker. For example, web browsers use cache, by storing images and web pages on your computer, so that they don't need to be re-downloaded. \n\nWhen testing anything in a web-browser, it's always best to ensure that you have cleared your cache, to ensure that you are testing the latest version.", "name" : "Cache / Caching" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20e" }, "description" : "Discouragement of use of some feature, design or practice; typically because it has been superseded or is no longer considered safe - but without completely removing it or prohibiting its use.", "name" : "Deprecated (tech)" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b20f" }, "name" : "Server", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b210" }, "description" : "A server running to deliver webpages to the web", "name" : "Web Server" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b211" }, "description" : "Uniform Resource Locator", "name" : "URL" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b212" }, "description" : "A domain name, is a name given to a location point so you can access it without needing to know the IP address. Such as www.hivehealth.com (Please see DNS for more information)", "name" : "Domain" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b213" }, "description" : "Domain Name System - Will convert a Domain name (e.g. www.hivehealth.com) into an IP address which can then be accessed)", "name" : "DNS" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b214" }, "description" : "A link to a website / email address", "name" : "Hyperlink" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b215" }, "description" : "HTTP is the foundation of data communication for the World Wide Web. HTTPS is the secure version, over SSL.", "name" : "HTTP / HTTPS" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b216" }, "description" : "File transfer protocol. Pretty much an old skool dropbox.", "name" : "FTP" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b217" }, "description" : "Application Program Interface - routines, protocols and tools that specify how software components should interact ", "name" : "API" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b218" }, "description" : "Asynchronous JavaScript and XML - a set of web development techniques used to make web applications", "name" : "AJAX" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b219" }, "description" : "Web accessibility refers to the inclusive practice of removing barriers that prevent interaction with, or access to websites, by people with disabilities. When sites are correctly designed, developed and edited, all users have equal access to information and functionality.", "name" : "Accessibility" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21a" }, "name" : "Usability", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21b" }, "name" : "Framework", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21c" }, "name" : "Responsive", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21d" }, "description" : "The technique of keeping a website still functional and with a good aspect on older browsers with some features altered/removed", "name" : "Graceful Degredation" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21e" }, "description" : "The methodology of designing and building for mobile 'first', and desktop 'second'", "name" : "Mobile First" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b21f" }, "description" : "Meaning the design/layout has a fixed width, e.g. 900 pixels wide. It does not adjust/change depending on browser/device size", "name" : "Fixed Width Layout" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b220" }, "name" : "Fluid Layout", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b221" }, "description" : "Defines the amount of pixels being displayed on the screen. E.g. iPads are 1024x768 (which is 1024 pixels horizontally times by 768 rows vertically)", "name" : "Resolution (Screen)" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b222" }, "description" : "A user has viewed a page of a website/app.", "name" : "Page View" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b223" }, "description" : "If you are trying to create a website with fonts that appear on a large percentage of computers, then you need to use a “web safe font”. While there are only a few fonts that are found on virtually every computer out there, if you use these fonts in your font stacks, your web pages will look correct.", "name" : "Web Safe Font" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b224" }, "description" : "Font's that are included natively on a system, and do not require any additional download by the user.", "name" : "System Font" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b225" }, "name" : "Prototype", "description" : "A proof of concept" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b226" }, "name" : "Tech Prototype", "description" : "Proof of concept to check if functionality is possible" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b227" }, "name" : "UX Prototype", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b229" }, "description" : "Metadata is small amounts of data (e.g. a tag) that describes bigger data.", "name" : "Meta Data" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b22a" }, "name" : "GUI", "description" : "Graphical User Interface;  Old term and pronounced 'Goo-ey', same definition as UI and applied more strictly for something shown on a screen" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b22d" }, "name" : "UXD", "description" : "User Experience Design" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b22e" }, "description" : "Adobe Photoshop File. Adobe Photoshop is a digital tool used to manipulate images and create mock-ups for build. This is predominantly used within the Creative Team.", "name" : "PSD" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b22f" }, "name" : "PNG", "description" : "Image with PNG encoding; High quality images with optional transparency" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b230" }, "name" : "JPG", "description" : "Image with JPG encoding; Great for photos, usually lower resolution" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b231" }, "name" : "GIF", "description" : "Image with GIF encoding; Can be also animated, usually for low resolution images" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b232" }, "name" : "Video Format", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b233" }, "description" : "A file format used for watching videos on PC - used in some version of DivX", "name" : "AVI" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b234" }, "description" : "A video file format, used natively by Quicktime", "name" : "MOV" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b235" }, "description" : "A video file format", "name" : "MP4" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b236" }, "name" : "H.264", "description" : "" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b237" }, "description" : "An compressed audio file format", "name" : "MP3" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b238" }, "description" : "A video file format (Flash)", "name" : "FLV" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b239" }, "description" : "Adobe Flash is a (now defunct) multimedia and software platform used for creating vector graphics, animation, browser games, rich Internet applications, desktop applications, mobile applications and mobile games. He's also the saviour of the universe. https://youtu.be/LfmrHTdXgK4?t=17s", "name" : "Flash" }
+{ "_id" : { "$oid" : "56b0e6499d8bfa8fec14b23a" }, "name" : "Encoding", "description" : "" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b23b" }, "name" : "6Ds", "description" : "The end to end process and all the stages we go through as an agency. Discover, define, design, develop, deliver and drive." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b23c" }, "name" : "AASLD", "description" : "American Association for the Study of Liver Disease" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b23d" }, "name" : "Above the line", "description" : "This kind of marketing has a very broad reach and is largely untargeted. Think about a national TV campaign, where viewers across the nation see the same advert aired across the various networks." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b23e" }, "name" : "ABPI", "description" : "Association of the British Pharmaceutical Industry" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b23f" }, "name" : "ABR", "description" : "Anti-biotic resistance" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b240" }, "name" : "Amends", "description" : "Amendments to be made to work." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b241" }, "name" : "APASL", "description" : "Asia-Pacific Association for the Study of the Liver" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b242" }, "name" : "Archive", "description" : "Where old files and folders are kept." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b243" }, "name" : "Below the line", "description" : "This kind of marking targets specific groups of people with focus. For example, a leaflet drop in a specific area, a Google Adwords campaign targeting a certain group or a driect telemarketing campaign targeting a specific business." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b244" }, "name" : "BHBIA", "description" : "British Healthcare Business Intelligence Association" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b245" }, "name" : "CMAP", "description" : "End to end trafficking system we use as an agency. It deals with timelines, resourcing and finance." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b246" }, "name" : "COP", "description" : "Close of play" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b247" }, "name" : "CSR", "description" : "Clinical study report - Another GSK term." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b248" }, "name" : "Detail Aid", "description" : "This is a digital tool which sales reps use when visiting HCPs to see in a product's specific features/benefits features/benefits for patients. A.k.a. eDetail and sales aid" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b249" }, "name" : "Distributor Markets", "description" : "Markets where our primary client has sold the marketing rights for their product to another pharma company (e.g. Gilead own Viread, but GSK promote it in Eastern Europe)." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24a" }, "name" : "DTC", "description" : "Direct to consumer" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24b" }, "name" : "EBMT", "description" : "European Society for  Blood and Marrow Transplantation" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24c" }, "name" : "EASL", "description" : "European Association for the Study of the Liver" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24d" }, "name" : "ECCMID", "description" : "European Congress of Clinical Microbiology and Infectious Diseases" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24e" }, "name" : "eDetail", "description" : "This is either a printed or digital tool which sales reps use when visiting HCPs to see in a product's specific features/benefits features/benefits for patients. A.k.a. sales aid and detail aid" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b24f" }, "name" : "EDF Guidelines", "description" : "European Dermatology Forum Guidelines" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b250" }, "name" : "Efficacy", "description" : "The ability of a drug to produce the desired therapeutic effect." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b251" }, "name" : "EMEA", "description" : "Europe, Middle East and Australia" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b252" }, "name" : "EOB", "description" : "End of business (end of day)" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b253" }, "name" : "EOD", "description" : "End of day" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b254" }, "name" : "EOP", "description" : "End of play" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b255" }, "name" : "ESCD", "description" : "European Society of Contact Dermatitis" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b256" }, "name" : "Fist or Five", "description" : "This is an activity that GSK do at the end of a meeting (sometimes) to give everyone the opportunity to say if they felt the meeting was beneficial. Everyone puts their hands in a circle – if you put your palm flat (five) you think it’s beneficial, if you put a fist in (fist) you thought it was a negative meeting." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b258" }, "name" : "Greenhouse", "description" : "To develop an idea. This is mostly a GSK term" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b259" }, "name" : "HCP", "description" : "Healthcare professional eg: Doctors, Nurses, Nutritionists etc. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25a" }, "name" : "IDA", "description" : "Interactive detail aid/sales aid/eDetail" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25b" }, "name" : "IDI", "description" : "In-depth interviews" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25c" }, "name" : "IPO", "description" : "This is a GSK term to discuss a meeting agenda. It stands for ‘Input / Process / Output’ and describes what you need for each section of a meeting." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25d" }, "name" : "KOL", "description" : "Key Opinion Leader" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25e" }, "name" : "KPI", "description" : "Key Performance Indicators" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b25f" }, "name" : "LATAM", "description" : "Latin America" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b260" }, "name" : "Leavepiece", "description" : "A printed item that you leave behind with someone after a discussion. Usually left with an HCP by a rep following a sales call. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b261" }, "name" : "Let's socialise that", "description" : "Means share our thoughts with other people to see what they think." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b262" }, "name" : "LOC", "description" : "A GSK acronym. Stands for local operating country." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b263" }, "name" : "Meeting in a box", "description" : "This rarely gets delivered in an ACTUAL box! It’s a ‘toolkit’ of contents which helps to standardise the running of meetings. It can include anything from a template agenda, discussion guide, slide kits, videos, stimulus, feedback forms. Can be delivered in a printed format, or often just as clearly labelled deliverables on an FTP site." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b264" }, "name" : "MSL", "description" : "Medical Sales Liaison. This is a medical member of the salesforce, that doesn’t hold promotional conversations with customers. In contrast to a ‘rep’ that holds the promotional conversations, a MSL will instead talk about data or market shaping for a particular drug." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b265" }, "name" : "MVP", "description" : "Most valuable player" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b266" }, "name" : "NoC", "description" : "Notice of Commission" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b267" }, "name" : "OS Ticket", "description" : "These are raised when one requests work to be done within 48hours that was unforeseen not is therefore not in the resourcing sheet." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b268" }, "name" : "PO", "description" : "Purchase Order - required for an external company to raise an incovice. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b269" }, "name" : "QA", "description" : "Quality Assurance" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26a" }, "name" : "Referencing", "description" : "The act of linking or connecting statements, data, ideas, or objects to an article or publication that refers the reader to another passage or source." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26b" }, "name" : "RFP", "description" : "Request For Proposal. A type of bidding solicitation in which a company or organization announces that funding is available for a particular project or program, and companies can place bids for the Request For Proposal" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26c" }, "name" : "ROI", "description" : "Return on investment" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26d" }, "name" : "RPC", "description" : "Reply paid card. These are often used in relation to return on investment." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26e" }, "name" : "SAC", "description" : "Statistical analysis complete - GSK lingo for when they read out the results of a big study. This is different to the publishing of that data though, so it’s still limited who they can share the information with and in what setting." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b26f" }, "name" : "Safety", "description" : "The freedom from being exposed to risk, danger, or harm." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b270" }, "name" : "Sales Aid", "description" : "This is either a printed or digital tool which sales reps use when visiting HCPs to see in a product's specific features/benefits features/benefits for patients. A.k.a. eDetail and detail aid" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b271" }, "name" : "Self-led detail", "description" : "This is normally a digital tool (e.g. website) which HCPs visit to learn about a product's specific features/benefits features/benefits for patients. The main differences between this and an eDetail/sales aid/detail aid is that it is used by HCPs without the assistance of sales reps. Consequently is more interactive." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b272" }, "name" : "SmPC", "description" : "Summary of product characteristics " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b273" }, "name" : "SOW", "description" : "Statement of Work" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b274" }, "name" : "TC", "description" : "Teleconference. NOT tactical chunder!" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b275" }, "name" : "Through the line", "description" : "This kind of marketing is really an integrated approach, where a company would use both BTL and ATL marketing methods to reach their customer base and generate conversions. It might seem obvious, although not all marketing campaigns are like this - some are ATL only and some are BTL only (it would be much more common to see a BTL-only marketing campaign in practice though)." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b276" }, "name" : "Tolerability", "description" : "The freedom from side effects" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b277" }, "name" : "Webex", "description" : "This is an online meeting which we can set up and host. It allows you to share your screen with a client, and also provide dial-in details to speak over the phone too. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b278" }, "name" : "WIP", "description" : "Work in progress" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b279" }, "name" : "Artwork", "description" : "Any visual design on a project excluding copy. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27a" }, "name" : "Layout", "description" : "General posistioning of creative content on a piece of work. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27b" }, "name" : "Copy", "description" : "Any written content" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27c" }, "name" : "Creative Brief", "description" : "Document outlining key requirements for a job eg: aims, insights, outputs. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27d" }, "name" : "UI", "description" : "User Interface design is the process of crafting a visual language and hierarchy that allows someone to use and engage an application. Tangibly, this might be designing a series of buttons or navigation icons for an iPhone app. Initially, these icons might be placed in skeletal form within a wireframe; UI Design is the process of ‘prettying the pixels up’ and bringing aesthetic beauty to functional user experience. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27e" }, "name" : "UX", "description" : "User Experience. This is the process of considering and defining the fundamental usability and accessibility of a given product or service. One example of this would be considering how to navigate and interact with a website. User Experience typically happens before design and concurrent to content development." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b27f" }, "name" : "Wire Framing", "description" : "The task of producing a skeletal structure for a given webpage, application or other digital asset – typically early in its development. A wireframe can serve multiple purposes, including: defining the common structure of a page or page types, providing guidance to a copywriter both before and during content development, and codifying the wider user experience of an asset." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b280" }, "name" : "Strategy", "description" : "A plan of action designed to achieve a long-term or overall aim. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b281" }, "name" : "RACI", "description" : "Responsibility assignment matrix. This details who is responsible, accountable, consulted and informed. I.e. who is involved in a project" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b282" }, "name" : "Accrued", "description" : "Accumulation of payment or benefits over time. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b283" }, "name" : "Actuals", "description" : "A physical commodity that underlies a futures contract or is traded in the physical market. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b284" }, "name" : "AER", "description" : "Annual Equivilant Rate" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b285" }, "name" : "Deferred", "description" : "Temporal postponement of the payment of an outstanding bill or debt usually involing repayment by installments. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b286" }, "name" : "OOPS", "description" : "Out of pockets/Pass throughs" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b287" }, "name" : "Pass throughs", "description" : "Out of pockets" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b288" }, "name" : "POCN", "description" : "Purchase Order Change Notification" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b289" }, "name" : "Recognised", "description" : "The billable hours that are approved by a BUD for any given project or role. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b28a" }, "name" : "YTD", "description" : "Year to date" }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b28b" }, "name" : "Reconciliation", "description" : "The action of making financial records consistant. Normally used when referring to the finance tracker." }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b28c" }, "name" : "Timesheet", "description" : "A method of recording the amount of an individual's time spent on each job. " }
+{ "_id" : { "$oid" : "56b0e7a59d8bfa8fec14b28d" }, "name" : "Concept", "description" : "The finance system. Used for raising a PO,  timesheets and forecasting budgets.   " }
